@@ -3,18 +3,18 @@
 # Installation
 
 Connect lcd-5110 and buttons with beaglebone: <br/>
-1.RST : GPIO47	<br/>
-2.CE  : GND		<br/>
-3.Dc  : GPIO45	<br/>
-4.Din : GPIO69	<br/>
-5.CLK : GPIO66	<br/>
-6.VCC : VCC	<br/>
-7.HL  : GND(or VCC)	<br/>
-8.GND : GND	<br/>
-9.BUTTON_LEFT : GPIO44	<br/>
-10.BUTTON_RIGHT : GPIO26	<br/>
-11.BUTTON_UP : GPIO46	<br/>
-12.BUTTON_DOWN : GPIO65	<br/>
+* RST : GPIO47	<br/>
+* CE  : GND		<br/>
+* Dc  : GPIO45	<br/>
+* Din : GPIO69	<br/>
+* CLK : GPIO66	<br/>
+* VCC : VCC	<br/>
+* HL  : GND(or VCC)	<br/>
+* GND : GND	<br/>
+* BUTTON_LEFT : GPIO44	<br/>
+* BUTTON_RIGHT : GPIO26	<br/>
+* BUTTON_UP : GPIO46	<br/>
+* BUTTON_DOWN : GPIO65	<br/>
 
 
 
