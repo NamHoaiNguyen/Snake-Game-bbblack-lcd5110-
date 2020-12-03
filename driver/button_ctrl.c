@@ -28,7 +28,7 @@ static irq_handler_t  button_irq_handler(unsigned int irq, void *dev_id,
 
 static int dev_open(struct inode *, struct file *);
 static int dev_close(struct inode *, struct file *);
-static int dev_read(struct file *, char __user *, size_t, loff_t *);
+static ssize_t dev_read(struct file *, char __user *, size_t, loff_t *);
 
 
 static struct file_operations fops = {
