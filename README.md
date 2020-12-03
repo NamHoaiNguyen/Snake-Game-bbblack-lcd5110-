@@ -1,4 +1,4 @@
-#S nake Game using lcd5110 and beaglebone-black
+# Snake Game using lcd5110 and beaglebone-black
 
 # Installation
 
