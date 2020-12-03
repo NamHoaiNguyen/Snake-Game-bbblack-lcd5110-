@@ -1,20 +1,21 @@
-#Snake Game using lcd5110 and beaglebone-black
+#S nake Game using lcd5110 and beaglebone-black
 
 # Installation
 
 Connect lcd-5110 and buttons with beaglebone: <br/>
-	## 1.RST : GPIO47	
-        ## 2.CE  : GND
-        ## 3.Dc  : GPIO45
-        ## 4.Din : GPIO69
-        ## 5.CLK : GPIO66
-        ## 6.VCC : VCC
-        ## 7.HL  : GND(or VCC)
-        ## 8.GND : GND
-        ## 9.BUTTON_LEFT : GPIO44
-        ## 10.BUTTON_RIGHT : GPIO26
-        ## 11.BUTTON_UP : GPIO46
-        ## 12.BUTTON_DOWN : GPIO65
+	## 1.RST : GPIO47	<br/>
+        ## 2.CE  : GND		<br/>
+        ## 3.Dc  : GPIO45	<br/>
+        ## 4.Din : GPIO69	<br/>
+        ## 5.CLK : GPIO66	<br/>
+        ## 6.VCC : VCC	<br/>
+        ## 7.HL  : GND(or VCC)	<br/>
+        ## 8.GND : GND	<br/>
+        ## 9.BUTTON_LEFT : GPIO44	<br/>
+        ## 10.BUTTON_RIGHT : GPIO26	<br/>
+        ## 11.BUTTON_UP : GPIO46	<br/>
+        ## 12.BUTTON_DOWN : GPIO65	<br/>
+
 
 
 ```
