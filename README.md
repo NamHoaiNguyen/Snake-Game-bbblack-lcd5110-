@@ -26,6 +26,6 @@ Connect lcd-5110 and buttons with beaglebone: <br/>
 5.Sudo chmod 777 /dev/buttons
 6. ./snake "speed" button (with speed is an unsigned integer)
 ```
-Note: With "test" folder, to linking with library, run: gcc -o abc abc.o -L/pathto_"lib"_folder -llcd_lib
+Note: With "test" folder, to linking with library, run: gcc -o lcd lcd.c -L/pathto_"lib"_folder -llcd_lib
 
 
